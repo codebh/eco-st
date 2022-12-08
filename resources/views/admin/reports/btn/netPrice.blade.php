@@ -1,0 +1,1 @@
+{{presentPrice($net_price)}}

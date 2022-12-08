@@ -1,0 +1,17 @@
+{
+    "name": "devsig/paygcc",
+    "description": "Paygcc payment gateway",
+    "authors": [
+        {
+            "name": "sigwebjobs",
+            "email": "sig@webjobsuk.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devsig\\paygcc\\": "src/"
+        }
+    }
+}

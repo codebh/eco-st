@@ -1,0 +1,1 @@
+$url=asset("storage/$product_id->photo")

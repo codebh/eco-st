@@ -1,0 +1,516 @@
+Horizon started successfully.
+Horizon started successfully.
+[2022-01-04 15:57:04][807ef9f8-e4d8-4606-b7f3-85b719f654b7] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:05][02f6e406-c3ab-4865-9917-12c0a9a0bb00] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:07][807ef9f8-e4d8-4606-b7f3-85b719f654b7] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:07][a3511f1a-bdd7-4702-a4f9-9a47ed873b6a] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:08][02f6e406-c3ab-4865-9917-12c0a9a0bb00] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:08][a0250ea6-817f-486b-9523-511cb1af3e86] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:09][a3511f1a-bdd7-4702-a4f9-9a47ed873b6a] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:09][38c7e9f0-7e86-465c-a792-507effe732c1] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:08][e655b110-c906-476b-a2fe-3f2664f3ca73] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:11][38c7e9f0-7e86-465c-a792-507effe732c1] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:11][31140787-ecc6-4175-95a4-066fd5b3b460] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:11][a0250ea6-817f-486b-9523-511cb1af3e86] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:11][8568aaea-cce0-47b6-b94e-a387a4d75aac] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:11][e655b110-c906-476b-a2fe-3f2664f3ca73] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:11][65014fc4-9ddc-4f20-a73a-b50feebb2693] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:13][31140787-ecc6-4175-95a4-066fd5b3b460] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:13][2b2e17f4-b694-4a51-9921-f4d43d998cef] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:13][8568aaea-cce0-47b6-b94e-a387a4d75aac] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:13][9664f05e-f687-497f-874b-251b37d74def] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 15:57:13][65014fc4-9ddc-4f20-a73a-b50feebb2693] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:14][9664f05e-f687-497f-874b-251b37d74def] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 15:57:15][2b2e17f4-b694-4a51-9921-f4d43d998cef] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:42][18c04525-5bbc-49a7-a002-298c11d57248] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:44][ba3fb29b-628f-4738-a12d-02022bb9cf30] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:45][18c04525-5bbc-49a7-a002-298c11d57248] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:45][d7cbe8b9-20c3-4851-9f4e-674dfa4daaaa] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:45][2da08645-5e2b-499c-87b8-3f247e101362] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:46][ba3fb29b-628f-4738-a12d-02022bb9cf30] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:46][d60049d0-8a9f-495c-bdd7-a5037a76ff1b] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:47][d7cbe8b9-20c3-4851-9f4e-674dfa4daaaa] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:47][f9e06fb5-6a8d-4ebd-8424-40aa9e4481e9] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:48][2da08645-5e2b-499c-87b8-3f247e101362] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:48][ecd7a2f0-31e2-40b7-b80c-55b4f443f491] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:48][d60049d0-8a9f-495c-bdd7-a5037a76ff1b] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:48][487bd03e-dc6e-4071-aa08-e6f1725ac618] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:49][f9e06fb5-6a8d-4ebd-8424-40aa9e4481e9] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:49][e2006ca5-39c6-446b-9a22-b948d32dcd2a] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:50][ecd7a2f0-31e2-40b7-b80c-55b4f443f491] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:50][b49ad555-38a0-4e80-aa74-cb730823052b] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:50][487bd03e-dc6e-4071-aa08-e6f1725ac618] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:50][7d84af9e-db86-448e-a953-bc7f877b3297] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:11:51][e2006ca5-39c6-446b-9a22-b948d32dcd2a] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:52][b49ad555-38a0-4e80-aa74-cb730823052b] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:11:52][7d84af9e-db86-448e-a953-bc7f877b3297] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:04][b2bfbe8f-8e36-4876-9138-5bf588105263] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:06][b2bfbe8f-8e36-4876-9138-5bf588105263] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:06][3be7e3df-f1eb-4648-b762-5b74ee0dcfda] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:06][067b6146-6d12-4f27-8258-00d1c9519488] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:08][3be7e3df-f1eb-4648-b762-5b74ee0dcfda] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:08][dfa2cdd0-9411-4ff7-aff1-5948d2e893c4] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:08][067b6146-6d12-4f27-8258-00d1c9519488] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:08][7d4276b6-4f74-4879-ad2c-f6e2fc0dc54d] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:09][3d7f817b-0a48-4c30-98fb-41ff80cf5b53] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:11][dfa2cdd0-9411-4ff7-aff1-5948d2e893c4] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:11][10baeeb7-56cd-4173-8d57-52f6911029ac] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:10][7d4276b6-4f74-4879-ad2c-f6e2fc0dc54d] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:10][d76c824f-433b-4591-ac51-6325be0f813a] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:11][3d7f817b-0a48-4c30-98fb-41ff80cf5b53] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:11][ecda6be6-c932-474c-86a2-32bb4dc5d832] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:12][10baeeb7-56cd-4173-8d57-52f6911029ac] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:12][9f54da7d-7906-4009-a506-739b60870197] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:12][d76c824f-433b-4591-ac51-6325be0f813a] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:12][c52638f3-ff18-43e1-98c1-833e7980f5b2] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:14:13][ecda6be6-c932-474c-86a2-32bb4dc5d832] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:14][9f54da7d-7906-4009-a506-739b60870197] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:14:14][c52638f3-ff18-43e1-98c1-833e7980f5b2] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:08][afe8b183-698c-422e-8a8d-5c5a88fea3c7] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:10][afe8b183-698c-422e-8a8d-5c5a88fea3c7] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:10][f6440d62-ae9e-4626-a04b-7bd661de3c77] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:10][ebc5fb69-1ba8-4b20-93f7-710e9f5dcff7] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:13][f6440d62-ae9e-4626-a04b-7bd661de3c77] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:13][80ee9859-53dd-4af8-a585-ae98245a67d8] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:12][ebc5fb69-1ba8-4b20-93f7-710e9f5dcff7] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:12][69684cf9-0270-408b-8891-dfadc13bfe26] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:13][7236a366-4943-458a-b157-7859f909e1f6] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:14][69684cf9-0270-408b-8891-dfadc13bfe26] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:14][5338cfc1-d34a-4f79-abac-2f043f3e5d72] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:15][80ee9859-53dd-4af8-a585-ae98245a67d8] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:15][ae489b66-b6e2-40f0-b941-3eec59a7c4a2] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:15][7236a366-4943-458a-b157-7859f909e1f6] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:15][c88d7925-d3b2-42dc-b106-cbc1a7d621d0] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:16][5338cfc1-d34a-4f79-abac-2f043f3e5d72] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:16][635dbfa3-474e-4712-9d87-54a8cb81f097] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:17][ae489b66-b6e2-40f0-b941-3eec59a7c4a2] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:17][366a3dbb-f9ad-413b-84c5-380f91b89c11] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:31:18][c88d7925-d3b2-42dc-b106-cbc1a7d621d0] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:18][635dbfa3-474e-4712-9d87-54a8cb81f097] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:31:19][366a3dbb-f9ad-413b-84c5-380f91b89c11] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:41:54][562a3708-547d-4e3a-b810-99822b9b4ece] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:41:56][562a3708-547d-4e3a-b810-99822b9b4ece] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:41:56][aeae7a00-2a1c-4dc8-8d25-b168e03d02a7] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:41:55][948d3504-7602-4114-b4c7-e5d4ba1d0717] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:41:58][aeae7a00-2a1c-4dc8-8d25-b168e03d02a7] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:41:58][2cc480ea-1c5f-4280-ae0b-71e72c5f6b47] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:41:57][948d3504-7602-4114-b4c7-e5d4ba1d0717] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:41:57][1383cb37-6514-4748-9456-dc6da1bc5f7b] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:41:58][df87b7fb-3403-49c9-b10b-4a04d1fadb01] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:42:00][1383cb37-6514-4748-9456-dc6da1bc5f7b] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:42:00][d64efc3e-0289-44b1-adcf-56f94baed202] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:42:01][2cc480ea-1c5f-4280-ae0b-71e72c5f6b47] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:42:01][7ee0899c-5612-4426-b43f-5ee0b3fd0c58] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:42:00][df87b7fb-3403-49c9-b10b-4a04d1fadb01] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:42:00][9023f5a7-c11d-4bd9-848e-16d00d2cab91] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:42:02][d64efc3e-0289-44b1-adcf-56f94baed202] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:42:02][4c03fc1e-909c-453c-9bc8-cac05e80c338] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:42:03][7ee0899c-5612-4426-b43f-5ee0b3fd0c58] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:42:02][9023f5a7-c11d-4bd9-848e-16d00d2cab91] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:42:02][c481d446-4fa7-4653-a278-3e614785dddb] Processing: App\Mail\Admin\MonthStore
+[2022-01-04 16:42:04][4c03fc1e-909c-453c-9bc8-cac05e80c338] Processed:  App\Mail\Admin\MonthStore
+[2022-01-04 16:42:04][c481d446-4fa7-4653-a278-3e614785dddb] Processed:  App\Mail\Admin\MonthStore
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+[2022-01-23 16:57:28][ea6566e9-2684-43d7-b8b8-66b5fcdfaf96] Processing: App\Mail\Store\PickupDelivery
+[2022-01-23 16:57:31][ea6566e9-2684-43d7-b8b8-66b5fcdfaf96] Processed:  App\Mail\Store\PickupDelivery
+[2022-01-23 17:03:19][efd0e881-23fb-42f0-aeba-441358f85f1d] Processing: App\Mail\Store\PickupDelivery
+[2022-01-23 17:03:22][efd0e881-23fb-42f0-aeba-441358f85f1d] Processed:  App\Mail\Store\PickupDelivery
+[2022-01-23 17:05:25][758e1271-f6cc-4d91-8ac7-24f280726f28] Processing: App\Mail\Store\PickupDelivery
+[2022-01-23 17:05:27][758e1271-f6cc-4d91-8ac7-24f280726f28] Processed:  App\Mail\Store\PickupDelivery
+[2022-01-23 17:07:51][23b878a1-edb6-43d7-ad14-253447f471d3] Processing: App\Mail\Store\PickupDelivery
+[2022-01-23 17:07:54][23b878a1-edb6-43d7-ad14-253447f471d3] Processed:  App\Mail\Store\PickupDelivery
+Horizon started successfully.
+[2022-01-26 15:54:32][eedce648-7928-4e75-a11d-fbbceeb05f26] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 15:54:32][eedce648-7928-4e75-a11d-fbbceeb05f26] Failed:     App\Mail\Admin\OrderCancel
+[2022-01-26 15:56:18][96a2e2f2-18f6-4cc6-982a-861ed414aab6] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 15:56:18][96a2e2f2-18f6-4cc6-982a-861ed414aab6] Failed:     App\Mail\Admin\OrderCancel
+[2022-01-26 15:56:54][7097814f-e867-43cd-9ac3-4cc6a264d50c] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 15:56:54][7097814f-e867-43cd-9ac3-4cc6a264d50c] Failed:     App\Mail\Admin\OrderCancel
+[2022-01-26 15:57:36][64739bd1-eefe-4e10-998e-27673e422660] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 15:57:36][64739bd1-eefe-4e10-998e-27673e422660] Failed:     App\Mail\Admin\OrderCancel
+[2022-01-26 15:58:18][57979118-ac44-4a56-9872-b729be8b4473] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 15:58:20][57979118-ac44-4a56-9872-b729be8b4473] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:20:12][2f9b8b40-b1f3-474e-a60e-c0249fa55800] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:20:14][2f9b8b40-b1f3-474e-a60e-c0249fa55800] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:21:53][62fcc316-6b4e-4db5-9abc-da20683f71d0] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:21:56][62fcc316-6b4e-4db5-9abc-da20683f71d0] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:24:16][58dc23cd-fddd-4cc4-8e8e-ac9cdbe7318e] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:24:19][58dc23cd-fddd-4cc4-8e8e-ac9cdbe7318e] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:26:10][a4c72baf-2809-41f9-b94e-40e139e3456a] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:26:12][a4c72baf-2809-41f9-b94e-40e139e3456a] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:27:15][9205d9cc-bd39-4414-bcb6-195cc0b03065] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:27:17][9205d9cc-bd39-4414-bcb6-195cc0b03065] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:29:49][a7c29849-d8f4-42bb-9215-af23fb3bf91b] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:29:52][a7c29849-d8f4-42bb-9215-af23fb3bf91b] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:29:55][3c5cb943-5a4d-4e23-a70f-bf4e1abac1c8] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:29:57][3c5cb943-5a4d-4e23-a70f-bf4e1abac1c8] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:32:24][633bcdfa-a2fd-459e-8eb3-e5bf61837101] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:32:25][56c3b7f4-b4cb-4d4e-9f36-0c7ae03041a0] Processing: App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:32:25][56c3b7f4-b4cb-4d4e-9f36-0c7ae03041a0] Failed:     App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:32:27][633bcdfa-a2fd-459e-8eb3-e5bf61837101] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:32:49][26addeba-ebcf-4242-b0d7-929bccb01c79] Processing: App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:32:49][26addeba-ebcf-4242-b0d7-929bccb01c79] Failed:     App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:34:31][69057c5e-1668-4a58-bfdf-aa7e0e3bd20c] Processing: App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:34:31][69057c5e-1668-4a58-bfdf-aa7e0e3bd20c] Failed:     App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:35:01][491db4fb-cf37-4e1d-8753-dfe01556fda3] Processing: App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:35:04][491db4fb-cf37-4e1d-8753-dfe01556fda3] Processed:  App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:36:40][b35a2615-be37-4eee-bc18-8e02e78b6b55] Processing: App\Mail\Admin\OrderCancel
+[2022-01-26 16:36:40][c2a6b448-149c-487f-bea2-b57db98f8b22] Processing: App\Mail\Admin\OrderCancelStore
+[2022-01-26 16:36:43][b35a2615-be37-4eee-bc18-8e02e78b6b55] Processed:  App\Mail\Admin\OrderCancel
+[2022-01-26 16:36:43][c2a6b448-149c-487f-bea2-b57db98f8b22] Processed:  App\Mail\Admin\OrderCancelStore
+[2022-02-01 16:28:55][2a1b7331-1d17-4f16-a0d8-d7f5047a03f4] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-01 16:29:13][2a1b7331-1d17-4f16-a0d8-d7f5047a03f4] Failed:     App\Mail\Admin\ProductConfirm
+[2022-02-01 16:31:04][75d07a80-ccb0-4dd7-be8b-2db150adced2] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-01 16:31:04][75d07a80-ccb0-4dd7-be8b-2db150adced2] Failed:     App\Mail\Admin\ProductConfirm
+[2022-02-01 16:32:44][705348f5-0027-4f84-9c5c-df8ba46c7cac] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-01 16:32:48][705348f5-0027-4f84-9c5c-df8ba46c7cac] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-01 16:41:50][18ce6a1a-c4f0-4c59-a22a-7e55dde3f822] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-01 16:41:53][18ce6a1a-c4f0-4c59-a22a-7e55dde3f822] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-01 16:42:44][592fbc14-2508-4f65-92b1-53825493ab5b] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-01 16:42:46][592fbc14-2508-4f65-92b1-53825493ab5b] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-01 16:43:26][a42a9ad5-490e-4d47-8409-4b7d948cdf1f] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-01 16:43:28][a42a9ad5-490e-4d47-8409-4b7d948cdf1f] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-01 16:44:07][31947885-9175-4e0e-af60-89b50c7919a4] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-01 16:44:10][31947885-9175-4e0e-af60-89b50c7919a4] Processed:  App\Mail\Admin\ProductConfirm
+Horizon started successfully.
+[2022-02-02 16:27:14][f362e31e-1f2c-436d-99ae-8d09ed43f75b] Processing: App\Mail\Store\ProductConfirm
+[2022-02-02 16:27:18][f362e31e-1f2c-436d-99ae-8d09ed43f75b] Processed:  App\Mail\Store\ProductConfirm
+[2022-02-02 16:55:39][dd9bb934-3a2b-44d1-ab51-d65a5063495b] Processing: App\Mail\Store\ProductConfirm
+[2022-02-02 16:55:44][dd9bb934-3a2b-44d1-ab51-d65a5063495b] Processed:  App\Mail\Store\ProductConfirm
+[2022-02-02 16:57:05][b15bb7b1-d14f-4505-af69-aa0c9f1b17a8] Processing: App\Mail\Store\ProductConfirm
+[2022-02-02 16:57:07][b15bb7b1-d14f-4505-af69-aa0c9f1b17a8] Processed:  App\Mail\Store\ProductConfirm
+[2022-02-02 16:58:34][255f48e7-499d-4b50-9cb3-daaf82af21b4] Processing: App\Mail\Store\ProductConfirm
+[2022-02-02 16:58:37][255f48e7-499d-4b50-9cb3-daaf82af21b4] Processed:  App\Mail\Store\ProductConfirm
+[2022-02-02 17:03:52][eead350b-6792-477d-8a30-8b820f3eab73] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-02 17:03:55][eead350b-6792-477d-8a30-8b820f3eab73] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-07 15:34:54][3ca48480-32ef-4e30-8a2c-c7271203591e] Processing: App\Mail\Store\ProductConfirm
+[2022-02-07 15:34:59][3ca48480-32ef-4e30-8a2c-c7271203591e] Processed:  App\Mail\Store\ProductConfirm
+[2022-02-07 15:42:47][e0328054-4e87-4048-ac1c-fffdac4a75ae] Processing: App\Mail\Store\ProductConfirm
+[2022-02-07 15:42:50][e0328054-4e87-4048-ac1c-fffdac4a75ae] Processed:  App\Mail\Store\ProductConfirm
+Horizon started successfully.
+Horizon started successfully.
+[2022-02-12 12:02:01][4e73c618-1bff-476d-b98d-774576fbfb46] Processing: App\Mail\Admin\StoreCreate
+[2022-02-12 12:02:07][4e73c618-1bff-476d-b98d-774576fbfb46] Failed:     App\Mail\Admin\StoreCreate
+[2022-02-12 12:03:11][afead15a-591c-4f9b-a469-9273d116428e] Processing: App\Mail\Admin\StoreCreate
+[2022-02-12 12:03:11][afead15a-591c-4f9b-a469-9273d116428e] Failed:     App\Mail\Admin\StoreCreate
+[2022-02-12 12:03:59][d2555081-8404-45bc-940d-6c3c5f80dbb2] Processing: App\Mail\Admin\StoreCreate
+[2022-02-12 12:04:02][d2555081-8404-45bc-940d-6c3c5f80dbb2] Processed:  App\Mail\Admin\StoreCreate
+[2022-02-12 12:10:50][90db176b-202c-4ae5-87c8-f30b857e289f] Processing: App\Mail\Store\ProductConfirm
+[2022-02-12 12:10:53][90db176b-202c-4ae5-87c8-f30b857e289f] Processed:  App\Mail\Store\ProductConfirm
+[2022-02-12 12:47:53][e10008d3-4b0f-4e7c-8a83-35146bf4ca99] Processing: App\Mail\Store\ProductConfirmToAdmin
+[2022-02-12 12:47:56][e10008d3-4b0f-4e7c-8a83-35146bf4ca99] Processed:  App\Mail\Store\ProductConfirmToAdmin
+[2022-02-12 13:02:02][8589eade-6a94-4265-8a94-6fc1f246afc5] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-12 13:02:05][8589eade-6a94-4265-8a94-6fc1f246afc5] Processed:  App\Mail\Store\ProductToAdmin
+Horizon started successfully.
+[2022-02-13 20:58:40][4ce7142a-52c5-495d-bedc-7328d2451a02] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-13 20:59:09][4ce7142a-52c5-495d-bedc-7328d2451a02] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-13 23:10:41][a208985e-0aa1-4bd2-90cf-43ea17dc6637] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-13 23:10:44][a208985e-0aa1-4bd2-90cf-43ea17dc6637] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-13 23:15:14][f91e31a2-d278-4752-8aba-34b1f6507f2a] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-13 23:15:17][f91e31a2-d278-4752-8aba-34b1f6507f2a] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-13 23:48:09][32346bde-2990-469c-ace3-4a1c5c646547] Processing: App\Mail\Admin\StoreCreate
+[2022-02-13 23:48:12][32346bde-2990-469c-ace3-4a1c5c646547] Processed:  App\Mail\Admin\StoreCreate
+[2022-02-13 23:57:38][fbd9047f-da0d-4806-a937-abde19eacf78] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:39][64c1d06e-9022-4ee6-bc91-4e024b9b8494] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:41][fbd9047f-da0d-4806-a937-abde19eacf78] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:41][487485e5-a54b-420d-ba3d-d9c899d4af97] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:41][64c1d06e-9022-4ee6-bc91-4e024b9b8494] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:41][dde8ded8-c95e-4cbe-bd17-d5ad328b90c1] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:41][93468868-3620-4afe-8fd9-879097c0d207] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:43][dde8ded8-c95e-4cbe-bd17-d5ad328b90c1] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:43][4411d552-6887-43ef-94a4-6ec92729d002] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:42][487485e5-a54b-420d-ba3d-d9c899d4af97] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:42][3c28ee9f-eae4-4a6f-bc72-876845e161b4] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:44][3c28ee9f-eae4-4a6f-bc72-876845e161b4] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:44][ffd494e0-afd9-4c90-a6ea-f5a5090c5744] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:43][93468868-3620-4afe-8fd9-879097c0d207] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:43][8a2cf751-357e-40b5-b037-0bd3023606e0] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:44][4411d552-6887-43ef-94a4-6ec92729d002] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:44][e3290740-ff86-4cc4-a910-bdb17489b1b3] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:46][ffd494e0-afd9-4c90-a6ea-f5a5090c5744] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:45][8a2cf751-357e-40b5-b037-0bd3023606e0] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:45][ed8729d8-947f-475e-9fba-a4a7f4b66d63] Processing: App\Mail\Admin\MonthStore
+[2022-02-13 23:57:46][e3290740-ff86-4cc4-a910-bdb17489b1b3] Processed:  App\Mail\Admin\MonthStore
+[2022-02-13 23:57:47][ed8729d8-947f-475e-9fba-a4a7f4b66d63] Processed:  App\Mail\Admin\MonthStore
+Horizon started successfully.
+[2022-02-15 21:49:28][8cbd67be-33d6-4c57-b6c9-c11a871f404b] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-15 21:49:47][8cbd67be-33d6-4c57-b6c9-c11a871f404b] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-15 21:50:05][a0a57803-2e69-44b3-ab5f-fc0fb816930f] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-15 21:50:07][a0a57803-2e69-44b3-ab5f-fc0fb816930f] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-15 21:55:19][a7e76169-527a-4b30-bd61-85adb77df5f5] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-15 21:55:22][a7e76169-527a-4b30-bd61-85adb77df5f5] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-15 21:55:30][7f4db2ea-4b37-4198-bb7f-85071a9f77ad] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-15 21:55:33][7f4db2ea-4b37-4198-bb7f-85071a9f77ad] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-16 20:07:44][7b100f67-8c86-49b6-a9a6-22f8bd744c1b] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-16 20:07:53][7b100f67-8c86-49b6-a9a6-22f8bd744c1b] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-16 20:59:25][4c92405a-b3a1-4d87-b82c-97177a1e9f4f] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-16 20:59:28][4c92405a-b3a1-4d87-b82c-97177a1e9f4f] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-16 21:17:35][31da07a7-36b7-49f8-ac1c-fba87903bd0d] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-16 21:17:37][31da07a7-36b7-49f8-ac1c-fba87903bd0d] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-16 21:18:16][5e7398ad-665b-48da-a6fd-2efeb70febea] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-16 21:18:18][5e7398ad-665b-48da-a6fd-2efeb70febea] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-16 21:20:05][5c1c9c27-bd70-45c6-9655-f9eef7650ef0] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-16 21:20:08][5c1c9c27-bd70-45c6-9655-f9eef7650ef0] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-20 12:27:42][e730e751-ef0d-4f83-b520-14688251009b] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-20 12:27:56][e730e751-ef0d-4f83-b520-14688251009b] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-20 12:28:55][11c326c5-a25e-4637-8aaf-f911e650974d] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-20 12:28:58][11c326c5-a25e-4637-8aaf-f911e650974d] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-20 12:29:06][e6895cc3-3760-4ada-a189-56f80509a1f6] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-20 12:29:08][e6895cc3-3760-4ada-a189-56f80509a1f6] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-20 13:12:45][4aee56bf-ac06-4c5d-b910-e8d0783ce1f9] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-20 13:12:47][4aee56bf-ac06-4c5d-b910-e8d0783ce1f9] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-20 13:28:04][a3036630-5839-4600-891c-508c0158ec6e] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-20 13:28:06][a3036630-5839-4600-891c-508c0158ec6e] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-20 14:24:31][8b9a6603-6d27-46cd-9f8d-7fba382ec8da] Processing: App\Mail\Admin\StoreCreate
+[2022-02-20 14:24:33][8b9a6603-6d27-46cd-9f8d-7fba382ec8da] Processed:  App\Mail\Admin\StoreCreate
+[2022-02-20 14:51:14][f5ed20e1-5ff5-4242-a4c1-685369ae8884] Processing: App\Mail\Store\PickupDelivery
+[2022-02-20 14:51:17][f5ed20e1-5ff5-4242-a4c1-685369ae8884] Processed:  App\Mail\Store\PickupDelivery
+[2022-02-20 18:17:09][200e0385-483d-4f9d-ae17-8a5b0ca3b8db] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-20 18:17:12][200e0385-483d-4f9d-ae17-8a5b0ca3b8db] Processed:  App\Mail\Admin\ProductConfirm
+[2022-02-22 19:33:49][d2e1bea5-6be3-4432-b3b2-40772b7e8835] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-22 19:34:00][d2e1bea5-6be3-4432-b3b2-40772b7e8835] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-23 17:56:46][17d79e52-46ad-4b4c-8b81-c601159c6fa0] Processing: App\Mail\Store\ProductToAdmin
+[2022-02-23 17:56:49][17d79e52-46ad-4b4c-8b81-c601159c6fa0] Processed:  App\Mail\Store\ProductToAdmin
+[2022-02-23 17:56:58][7d65b6de-7b5f-48c9-b8fc-0a09b985892a] Processing: App\Mail\Admin\ProductConfirm
+[2022-02-23 17:57:00][7d65b6de-7b5f-48c9-b8fc-0a09b985892a] Processed:  App\Mail\Admin\ProductConfirm
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+[2022-05-05 20:37:52][d18ac441-a4d4-470c-a864-bcd9ff99449b] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][d18ac441-a4d4-470c-a864-bcd9ff99449b] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][76d85f3d-206a-49d9-8cac-87db17a25e48] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][76d85f3d-206a-49d9-8cac-87db17a25e48] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][e8d362bb-727a-4192-b149-1d46c426042a] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][e8d362bb-727a-4192-b149-1d46c426042a] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][3b21e5a1-1499-4b0f-b26a-a10fe6b24933] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][3b21e5a1-1499-4b0f-b26a-a10fe6b24933] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][0bd2f413-e666-4a1c-9265-b41cf9ad0ec8] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][0bd2f413-e666-4a1c-9265-b41cf9ad0ec8] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][92b3a801-1f2d-458c-8a0b-db840d80622f] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][92b3a801-1f2d-458c-8a0b-db840d80622f] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][6415e613-9e93-441f-91ca-52fba78fb061] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][6415e613-9e93-441f-91ca-52fba78fb061] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][9cfe1b9f-48ee-4baf-a621-ebbb94ce95c5] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][9cfe1b9f-48ee-4baf-a621-ebbb94ce95c5] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][98917703-0eb3-4dd9-8952-82add3a312a1] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][98917703-0eb3-4dd9-8952-82add3a312a1] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][96c49500-839e-40cb-8153-4168b624c069] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][96c49500-839e-40cb-8153-4168b624c069] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][95ea4ea6-128b-4c11-84d6-5f60443a535c] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][95ea4ea6-128b-4c11-84d6-5f60443a535c] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][ba95509d-0881-4db1-8f44-34f536e11ee1] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][ba95509d-0881-4db1-8f44-34f536e11ee1] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][5a16a45e-ab54-4b55-94c8-939c456bc6b5] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][5a16a45e-ab54-4b55-94c8-939c456bc6b5] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][a364401b-fc06-4b6c-ba7b-2d3643e5a2bd] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][a364401b-fc06-4b6c-ba7b-2d3643e5a2bd] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][561e2c09-7031-4e51-9cc8-fd2b8171a6ec] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][561e2c09-7031-4e51-9cc8-fd2b8171a6ec] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][7f93311d-0a74-4b4e-8eba-8de32027031a] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][7f93311d-0a74-4b4e-8eba-8de32027031a] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][5d207117-e0a0-400e-961f-2585cb28afe7] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][5d207117-e0a0-400e-961f-2585cb28afe7] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][353a65fc-f2b2-4f4f-8bae-24419e4b7b2e] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][353a65fc-f2b2-4f4f-8bae-24419e4b7b2e] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][d63832c9-167c-49ef-ba20-41fbd8bc0e94] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][d63832c9-167c-49ef-ba20-41fbd8bc0e94] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][5d2771e7-fa4d-4d28-9315-e742b4947613] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][5d2771e7-fa4d-4d28-9315-e742b4947613] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][e2d80b63-ee87-49ef-accd-3f130c3402ae] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][e2d80b63-ee87-49ef-accd-3f130c3402ae] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][701de634-d00b-4f5b-a7a2-1659b8517998] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][701de634-d00b-4f5b-a7a2-1659b8517998] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][29fdbbc8-08cc-4012-a607-13a773b368f8] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][29fdbbc8-08cc-4012-a607-13a773b368f8] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][474193f0-d40b-48d3-bfdb-a9509c42e77f] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][474193f0-d40b-48d3-bfdb-a9509c42e77f] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][f016765e-3f32-4591-82c8-c3da80f4736d] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][f016765e-3f32-4591-82c8-c3da80f4736d] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][22f3b97c-b324-482d-adb6-a9598b9f5301] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][22f3b97c-b324-482d-adb6-a9598b9f5301] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][3a75b7fe-4975-4f5e-be61-2f73eb55d158] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][b1673e00-ccbd-4fc5-9d65-ec82b0c78935] Processing: App\Mail\Store\ProductToAdmin
+[2022-05-05 20:37:52][b1673e00-ccbd-4fc5-9d65-ec82b0c78935] Failed:     App\Mail\Store\ProductToAdmin
+[2022-05-05 20:37:52][839aab47-cf33-48e5-99af-645f4022c1ba] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][839aab47-cf33-48e5-99af-645f4022c1ba] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 20:37:52][c7469801-e39b-48ad-8416-1a7038d0e809] Processing: App\Mail\Store\ProductToAdmin
+[2022-05-05 20:37:52][9910e8e8-de5b-45e0-8bd4-6859ca16032b] Processing: App\Mail\Store\ProductToAdmin
+[2022-05-05 20:37:54][3a75b7fe-4975-4f5e-be61-2f73eb55d158] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:54][20207f63-92d2-4a93-9810-03d7e33bb725] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:54][c7469801-e39b-48ad-8416-1a7038d0e809] Processed:  App\Mail\Store\ProductToAdmin
+[2022-05-05 20:37:54][ba5dfa71-9bd4-4578-b174-c9d57595e6f9] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:54][9910e8e8-de5b-45e0-8bd4-6859ca16032b] Processed:  App\Mail\Store\ProductToAdmin
+[2022-05-05 20:37:54][96227ab6-01c2-4b65-87cd-6e2302dd3ddc] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:56][20207f63-92d2-4a93-9810-03d7e33bb725] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:56][68c34afc-b2b4-4c6f-95c4-ef6444d89ff5] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:55][ba5dfa71-9bd4-4578-b174-c9d57595e6f9] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:55][574c47e2-eae3-4ac4-8470-393656d5300f] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:56][96227ab6-01c2-4b65-87cd-6e2302dd3ddc] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:56][62586561-6307-4c76-84ae-91ba1cbd80e6] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:57][574c47e2-eae3-4ac4-8470-393656d5300f] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:57][08969b3f-47cc-4a30-9c06-eb6c579278c0] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:58][68c34afc-b2b4-4c6f-95c4-ef6444d89ff5] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:57][62586561-6307-4c76-84ae-91ba1cbd80e6] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:57][fe034d0e-1753-4216-9657-5331f458b13a] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:37:59][08969b3f-47cc-4a30-9c06-eb6c579278c0] Processed:  App\Mail\Admin\MonthStore
+[2022-05-05 20:37:59][fe034d0e-1753-4216-9657-5331f458b13a] Processed:  App\Mail\Admin\MonthStore
+Horizon started successfully.
+[2022-05-05 20:38:31][a752c07c-5cf8-4b3a-8407-c237f55b3fab] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 20:38:31][a752c07c-5cf8-4b3a-8407-c237f55b3fab] Failed:     App\Mail\Admin\MonthStore
+[2022-05-05 21:00:22][c218b4a7-f571-440e-951d-dad70558ffa2] Processing: App\Mail\Admin\MonthStore
+[2022-05-05 21:00:25][c218b4a7-f571-440e-951d-dad70558ffa2] Processed:  App\Mail\Admin\MonthStore
+[2022-06-04 18:03:05][28d011b4-c4a9-4c2e-9379-f7eca94dfd05] Processing: App\Mail\Store\ProductToAdmin
+[2022-06-04 18:03:09][28d011b4-c4a9-4c2e-9379-f7eca94dfd05] Processed:  App\Mail\Store\ProductToAdmin
+[2022-07-05 21:05:28][5e2a6fe2-7d18-4b62-8e52-66d5a05fcf6e] Processing: App\Mail\Admin\StoreCreate
+[2022-07-05 21:05:31][5e2a6fe2-7d18-4b62-8e52-66d5a05fcf6e] Processed:  App\Mail\Admin\StoreCreate
+[2022-07-05 21:07:22][89bab545-a7b1-4d17-9e47-30e70c59a705] Processing: App\Mail\Admin\StoreCreate
+[2022-07-05 21:07:22][89bab545-a7b1-4d17-9e47-30e70c59a705] Failed:     App\Mail\Admin\StoreCreate
+[2022-07-13 12:05:01][303af0fb-0cb8-4623-aabd-59fbb8779f69] Processing: App\Mail\Store\ProductToAdmin
+
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Trait "Cviebrock\EloquentSluggable\Sluggable" not found
+
+  at app/Models/Product.php:15
+     11▕ use Cviebrock\EloquentSluggable\Sluggable;
+     12▕ 
+     13▕ 
+     14▕ 
+  ➜  15▕ class Product extends Model
+     16▕ {
+     17▕     use HasFactory ;
+     18▕     use Searchable;
+     19▕     use SoftDeletes;
+
+
+   Whoops\Exception\ErrorException 
+
+  Trait "Cviebrock\EloquentSluggable\Sluggable" not found
+
+  at app/Models/Product.php:15
+     11▕ use Cviebrock\EloquentSluggable\Sluggable;
+     12▕ 
+     13▕ 
+     14▕ 
+  ➜  15▕ class Product extends Model
+     16▕ {
+     17▕     use HasFactory ;
+     18▕     use Searchable;
+     19▕     use SoftDeletes;
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+PHP Fatal error:  Trait "Cviebrock\EloquentSluggable\Sluggable" not found in /home/faisal/sites/eco-staging/app/Models/Product.php on line 15
+[2022-07-13 12:06:31][303af0fb-0cb8-4623-aabd-59fbb8779f69] Processing: App\Mail\Store\ProductToAdmin
+[2022-07-13 12:06:31][303af0fb-0cb8-4623-aabd-59fbb8779f69] Failed:     App\Mail\Store\ProductToAdmin
+[2022-07-13 12:26:33][f07c95e2-cebe-448f-a843-82efaf617c24] Processing: App\Mail\Store\ProductToAdmin
+[2022-07-13 12:26:35][f07c95e2-cebe-448f-a843-82efaf617c24] Processed:  App\Mail\Store\ProductToAdmin
+[2022-07-15 18:25:49][f96295b3-7ef3-4bc6-8fc6-5e0aa05d362d] Processing: App\Mail\Admin\StoreCreate
+[2022-07-15 18:25:51][f96295b3-7ef3-4bc6-8fc6-5e0aa05d362d] Processed:  App\Mail\Admin\StoreCreate
+[2022-07-16 17:07:43][c6367af4-2cb3-40f1-aba7-5ceebf46a9a2] Processing: App\Mail\Style\OpenShop
+[2022-07-16 17:07:43][c6367af4-2cb3-40f1-aba7-5ceebf46a9a2] Failed:     App\Mail\Style\OpenShop
+[2022-07-16 17:08:25][3c94753e-1988-4a02-8592-584d853dede6] Processing: App\Mail\Style\OpenShop
+[2022-07-16 17:08:25][3c94753e-1988-4a02-8592-584d853dede6] Failed:     App\Mail\Style\OpenShop
+[2022-07-16 17:08:37][4b0c37bb-ca87-4a5a-a9bc-4af9dc895751] Processing: App\Mail\Style\OpenShop
+[2022-07-16 17:08:37][4b0c37bb-ca87-4a5a-a9bc-4af9dc895751] Failed:     App\Mail\Style\OpenShop
+[2022-07-16 19:40:55][142b0497-10fb-4fcb-bd22-fad240434f6c] Processing: App\Mail\Admin\StoreCreate
+[2022-07-16 19:40:58][142b0497-10fb-4fcb-bd22-fad240434f6c] Processed:  App\Mail\Admin\StoreCreate
+[2022-07-16 22:19:09][e9c545f1-4766-4212-afbd-eeadeee8cad4] Processing: App\Mail\Style\BeforeDayToOpenShop
+[2022-07-16 22:19:09][e9c545f1-4766-4212-afbd-eeadeee8cad4] Failed:     App\Mail\Style\BeforeDayToOpenShop
+[2022-07-16 22:21:36][6c191e5f-1215-4dd5-b026-17152b2870d1] Processing: App\Mail\Style\BeforeDayToOpenShop
+[2022-07-16 22:21:36][6c191e5f-1215-4dd5-b026-17152b2870d1] Failed:     App\Mail\Style\BeforeDayToOpenShop
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+[2022-07-22 00:34:21][7954337d-f58e-4402-9c61-7c37e32f51bc] Processing: App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:34:21][7954337d-f58e-4402-9c61-7c37e32f51bc] Failed:     App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:35:21][c249be6d-0f46-4101-8de9-f53fb104b3aa] Processing: App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:35:21][c249be6d-0f46-4101-8de9-f53fb104b3aa] Failed:     App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:40:15][7cb3e117-a65d-42ab-848b-fabbc150cab8] Processing: App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:40:15][7cb3e117-a65d-42ab-848b-fabbc150cab8] Failed:     App\Mail\Style\BeforeDayToOpenShop
+Horizon started successfully.
+[2022-07-22 00:47:55][8fffdb8e-bf23-4efc-bf82-721cb77ecad3] Processing: App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:47:55][8fffdb8e-bf23-4efc-bf82-721cb77ecad3] Failed:     App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:48:04][598a8683-1ad5-4b3a-833e-191e8e077a49] Processing: App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 00:48:05][598a8683-1ad5-4b3a-833e-191e8e077a49] Failed:     App\Mail\Style\BeforeDayToOpenShop
+[2022-07-22 01:00:14][b7f52b36-c6d6-4e23-b121-6195283b6c66] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:00:16][b7f52b36-c6d6-4e23-b121-6195283b6c66] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:05:23][0d7818b2-f67c-4bc3-8cb1-ba5e53973bc6] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:05:26][0d7818b2-f67c-4bc3-8cb1-ba5e53973bc6] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:05:59][d233d4ee-3360-46f8-85e0-f0cad471883b] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:06:01][d233d4ee-3360-46f8-85e0-f0cad471883b] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:06:43][7bb4ad26-9164-4438-8a74-8e4075e14af9] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:06:44][7bb4ad26-9164-4438-8a74-8e4075e14af9] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:06:44][a73f9f79-6b1c-4b98-b599-fb1fe79a1692] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:06:46][a73f9f79-6b1c-4b98-b599-fb1fe79a1692] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:09:00][979238fd-9fee-4b56-b69b-77b0c0e4c9b9] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:09:01][f6ae08d1-bba3-468c-9cc9-1d74c3e3581d] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:09:02][f6ae08d1-bba3-468c-9cc9-1d74c3e3581d] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:09:02][979238fd-9fee-4b56-b69b-77b0c0e4c9b9] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:09:08][627bdd6a-aca1-4b90-a190-34221f150930] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:09:09][627bdd6a-aca1-4b90-a190-34221f150930] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:09:09][832fcf81-f141-41cf-ba5d-4dbfe3fea7b9] Processing: App\Mail\Style\CartNotification
+[2022-07-22 01:09:11][832fcf81-f141-41cf-ba5d-4dbfe3fea7b9] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 01:24:10][8b869ce5-ec23-4f53-81a3-af00d51593d0] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:24:10][8b869ce5-ec23-4f53-81a3-af00d51593d0] Failed:     App\Mail\Style\OpenShop
+[2022-07-22 01:26:34][cf8e4857-c39d-4a99-ab8d-4abe63d46986] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:26:36][cf8e4857-c39d-4a99-ab8d-4abe63d46986] Processed:  App\Mail\Style\OpenShop
+[2022-07-22 01:27:58][845b7ff1-eef9-4512-9d78-7625ecf500d3] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:27:58][845b7ff1-eef9-4512-9d78-7625ecf500d3] Failed:     App\Mail\Style\OpenShop
+[2022-07-22 01:28:10][fe1030d5-804f-4289-84bd-21d264fdecdc] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:28:10][fe1030d5-804f-4289-84bd-21d264fdecdc] Failed:     App\Mail\Style\OpenShop
+[2022-07-22 01:28:22][43f30d80-3f1d-4503-b220-61c179409712] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:28:22][43f30d80-3f1d-4503-b220-61c179409712] Failed:     App\Mail\Style\OpenShop
+[2022-07-22 01:28:55][dc6e208f-a6ab-4437-af12-51ed580514dc] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:28:55][dc6e208f-a6ab-4437-af12-51ed580514dc] Failed:     App\Mail\Style\OpenShop
+[2022-07-22 01:29:13][bb2407d5-f0d3-45c5-a6b5-2a2337ef5f44] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:29:13][bb2407d5-f0d3-45c5-a6b5-2a2337ef5f44] Failed:     App\Mail\Style\OpenShop
+[2022-07-22 01:31:46][357fe108-2cca-4854-9f77-2e83128f2de7] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:31:48][357fe108-2cca-4854-9f77-2e83128f2de7] Processed:  App\Mail\Style\OpenShop
+[2022-07-22 01:39:17][7acc50ef-ffe1-4980-a5c6-5f07b5fc8a50] Processing: App\Mail\Style\OpenShop
+[2022-07-22 01:39:19][7acc50ef-ffe1-4980-a5c6-5f07b5fc8a50] Processed:  App\Mail\Style\OpenShop
+[2022-07-22 17:00:04][31c94af3-44f8-4035-b37a-20998234faea] Processing: App\Mail\Style\CartNotification
+[2022-07-22 17:00:04][fc261bdb-e9e0-4a76-9aa8-64ac529cd21a] Processing: App\Mail\Style\CartNotification
+[2022-07-22 17:00:06][31c94af3-44f8-4035-b37a-20998234faea] Processed:  App\Mail\Style\CartNotification
+[2022-07-22 17:00:06][fc261bdb-e9e0-4a76-9aa8-64ac529cd21a] Processed:  App\Mail\Style\CartNotification
+[2022-07-25 10:17:00][7d231ae5-f8e3-42e3-ab83-fe2d1324e82c] Processing: App\Mail\Style\CartNotification
+[2022-07-25 10:17:03][7d231ae5-f8e3-42e3-ab83-fe2d1324e82c] Processed:  App\Mail\Style\CartNotification
+[2022-07-25 10:19:42][2f6bd8e2-0bf2-4cb6-9eb0-f54dc48b4991] Processing: App\Mail\Style\CartNotification
+[2022-07-25 10:19:44][2f6bd8e2-0bf2-4cb6-9eb0-f54dc48b4991] Processed:  App\Mail\Style\CartNotification
+[2022-07-25 17:00:02][9a49a23c-b637-40ee-8740-4610ff6be3f4] Processing: App\Mail\Style\CartNotification
+[2022-07-25 17:00:05][9a49a23c-b637-40ee-8740-4610ff6be3f4] Processed:  App\Mail\Style\CartNotification
+[2022-07-26 14:26:23][6f142ee4-8dec-4148-bbf7-dd4de5cd1b99] Processing: App\Mail\Store\ProductToAdmin
+[2022-07-26 14:26:25][6f142ee4-8dec-4148-bbf7-dd4de5cd1b99] Processed:  App\Mail\Store\ProductToAdmin
+[2022-09-01 02:00:03][f54a2527-6eaf-457d-a58d-aedef4b98b0f] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:04][57fe49d9-3af7-4698-b751-a3a1745f57b9] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:06][f54a2527-6eaf-457d-a58d-aedef4b98b0f] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:06][b228fafa-2843-4953-94e4-d78c0b076055] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:06][57fe49d9-3af7-4698-b751-a3a1745f57b9] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:06][5e95ae36-170f-47e0-83bf-d263f683f84d] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:08][b228fafa-2843-4953-94e4-d78c0b076055] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:08][059cb452-ce23-4241-b6d4-6dd8d1f0f610] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:07][bcac47e0-6fa9-4eec-909a-dbd799abd9d4] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:08][5e95ae36-170f-47e0-83bf-d263f683f84d] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:08][76b98c0d-e100-4e6d-b8d4-2429071e5252] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:09][bcac47e0-6fa9-4eec-909a-dbd799abd9d4] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:09][89be6b97-a768-4057-9c7d-51fc19fc64b3] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:09][059cb452-ce23-4241-b6d4-6dd8d1f0f610] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:09][0e0435c4-9113-4454-b3c7-6ebc5e97e4c4] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:10][76b98c0d-e100-4e6d-b8d4-2429071e5252] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:10][b608e6e1-47dd-4a7c-add1-9ff7d9b605c2] Processing: App\Mail\Admin\MonthStore
+[2022-09-01 02:00:11][89be6b97-a768-4057-9c7d-51fc19fc64b3] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:11][0e0435c4-9113-4454-b3c7-6ebc5e97e4c4] Processed:  App\Mail\Admin\MonthStore
+[2022-09-01 02:00:11][b608e6e1-47dd-4a7c-add1-9ff7d9b605c2] Processed:  App\Mail\Admin\MonthStore
+[2022-09-18 21:13:03][c59916f6-d53c-408f-b2fc-671f152f0258] Processing: App\Mail\Store\PickupDelivery
+[2022-09-18 21:13:05][c59916f6-d53c-408f-b2fc-671f152f0258] Processed:  App\Mail\Store\PickupDelivery
+[2022-09-18 22:13:06][5c68465c-55d9-406e-a2c7-c69eb9263c93] Processing: App\Mail\Store\PickupDelivery
+[2022-09-18 22:13:09][5c68465c-55d9-406e-a2c7-c69eb9263c93] Processed:  App\Mail\Store\PickupDelivery
+[2022-09-18 22:24:40][009c52e8-f933-45a6-b827-606c0ac64316] Processing: App\Mail\Store\PickupDelivery
+[2022-09-18 22:24:42][009c52e8-f933-45a6-b827-606c0ac64316] Processed:  App\Mail\Store\PickupDelivery
