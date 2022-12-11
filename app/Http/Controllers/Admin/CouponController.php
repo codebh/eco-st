@@ -6,6 +6,7 @@ use App\DataTables\Admin\CouponsDatatables;
 use App\Http\Controllers\Controller;
 use App\Models\Coupon;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
 
 class CouponController extends Controller
 {
@@ -166,5 +167,61 @@ class CouponController extends Controller
         $coupon->delete();
         session()->flash('success',trans('admin.deleted_record'));
         return redirect(aurl('coupons'));
+    }
+    public function multi(){
+        // dd('multiu');
+        return view('admin.coupons.multi');
+    }
+
+    public function multiCoupons(Request $request){
+        // dd($request->all());
+        $num = (int) $request->count;
+// dd($num);
+        $this->validate($request,[
+            "count" => 'required',
+            "type" => 'required',
+            "value" => 'required',
+            "qty" => 'required',
+            "end" => 'required',
+        ]);
+
+        // $make= Coupon::factory(App\Models\Coupon::class, 5)->create([
+        //     'code' => Str::random(6),
+        //     'type' => 'percent',
+        //     'value' => 20,
+        //     'percent_off' => 0,
+        //     'qty' => 0,
+        //     'end' => now(),
+        // ]);
+
+
+// dd($request->count);
+         for ($i=0; $i < $num; $i++) {
+// dd('inside');
+            if($request->type =='fixed'){
+                $coupon = new Coupon();
+                $coupon->code = Str::random(6);
+                $coupon->type = $request->type;
+                $coupon->value =$request->value;
+                $coupon->qty =$request->qty;
+                $coupon->end =$request->end;
+                $coupon->save();
+
+
+            }else{
+                $coupon = new Coupon();
+                $coupon->code = Str::random(6);
+                $coupon->type = $request->type;
+                $coupon->percent_off =$request->value;
+                $coupon->qty =$request->qty;
+                $coupon->end =$request->end;
+                $coupon->save();
+
+
+            }
+
+         }
+
+         return redirect(aurl('coupons'));
     }
 }

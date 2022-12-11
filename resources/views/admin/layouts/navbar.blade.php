@@ -206,6 +206,7 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview" style="{{active_menu('coupons')[1]}}">
+
                         <li class="nav-item">
                             <a href="{{aurl('coupons')}}" class="nav-link"><i class="far fa-circle nav-icon"></i>
                                 <p>{{trans('admin.coupon')}}</p>
@@ -214,6 +215,11 @@
                         <li class="nav-item">
                             <a href="{{aurl('coupons/create')}}" class="nav-link"><i class="far fa-circle nav-icon"></i>
                                 <p>{{trans('admin.add')}}</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="{{aurl('coupons-multi')}}" class="nav-link"><i class="far fa-circle nav-icon"></i>
+                                <p>{{trans('admin.coupons_count')}}</p>
                             </a>
                         </li>
 

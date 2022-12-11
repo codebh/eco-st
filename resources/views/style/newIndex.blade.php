@@ -15,8 +15,9 @@
     {{-- <meta name="keywords" content="tafseel"> --}}
     {{-- <meta name = "keywords" content = "HTML, Meta Tags, Metadata" /> --}}
     {{-- <meta name="author" content="tafseel"> --}}
-    <link rel="icon" href="{{asset('img/s_logo.png')}}" type="image/x-icon">
-    <link rel="shortcut icon" href="{{asset('img/s_logo.png')}}" type="image/x-icon">
+
+    {{-- <link rel="icon" href="{{asset('img/s_logo.png')}}" type="image/x-icon"> --}}
+    {{-- <link rel="shortcut icon" href="{{asset('img/s_logo.png')}}" type="image/x-icon"> --}}
     {{-- <title>Tafseel</title> --}}
 
 

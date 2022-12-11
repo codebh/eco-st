@@ -311,6 +311,8 @@ return[
     'shops_users'                       =>'Shops and users',
     'camp'                              =>'campaigns',
     'delivery'                          =>'delivery',
+    'coupons_count'                     =>'total coupond code',
+
 
 
 

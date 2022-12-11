@@ -179,13 +179,13 @@ class ThankyouController extends Controller
 
          }
          if( $order->billing_discount_code !== null){
-             $coupon = Coupon::where('code',$order->billing_discount_code)->first();
-             $cou = Coupon::findOrFail($coupon->id);
-                 if($cou-> qty > 0){
-                    Coupon::update(['qty' => $cou->qty - 1]);
-                 }
-             
-         }
+            $coupon = Coupon::where('code',$order->billing_discount_code)->first();
+            $cou = Coupon::findOrFail($coupon->id);
+                if($cou-> qty > 0){
+                   $product_update = Coupon::where('id', $cou->id)->update(['qty' => $cou->qty - 1]);
+                }
+
+        }
          $order->save();
 
 

@@ -43,7 +43,7 @@ Route::group(['middleware' => ['Maintenance'], 'namespace' => 'App\Http\Controll
 
 
 //    add  chart to profile of users  after login page
-    Route::get('/', [App\Http\Controllers\Style\HomeController::class, 'index'])->name('home');
+    // Route::get('/', [App\Http\Controllers\Style\HomeController::class, 'index'])->name('home');
 //    add  chart to profile of users  after login page
 
 //test route the new layout
@@ -129,7 +129,7 @@ Route::group(['middleware' => ['Maintenance'], 'namespace' => 'App\Http\Controll
 
 
 
-    Route::any('/search', [App\Http\Controllers\SearchController::class,'index'])->name('search');
+    // Route::any('/search', [App\Http\Controllers\SearchController::class,'index'])->name('search');
     Route::any('/search-temp', [App\Http\Controllers\SearchController::class,'search'])->name('search.auto');
     Route::get('/search-algolia', [App\Http\Controllers\SearchController::class,'searchAlgolia'])->name('search.Algolia');
 

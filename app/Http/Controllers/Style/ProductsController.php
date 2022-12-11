@@ -34,7 +34,8 @@ class ProductsController extends Controller
             Link::make()->rel('canonical')->href('https://tafseel.net/all-products'),
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
-
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
             session('lang')=='ar'?
             'تفصيل | ملابس اون لاين '

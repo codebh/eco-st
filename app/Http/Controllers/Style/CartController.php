@@ -7,6 +7,12 @@ use App\Models\Product;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use romanzipp\Seo\Facades\Seo;
+use romanzipp\Seo\Services\SeoService;
+use romanzipp\Seo\Structs\Title;
+use romanzipp\Seo\Structs\Meta\Description;
+use romanzipp\Seo\Structs\Link;
+use romanzipp\Seo\Structs\Meta\OpenGraph;
 
 class CartController extends Controller
 {
@@ -21,6 +27,42 @@ class CartController extends Controller
      */
     public function index()
     {
+        seo()->title(session('lang')=='ar'?
+        'تفصيل | منصة تسوق اون لاين لعديد من محلات العبايات وملابس المحجبات والبدلات والجلابيات والفساتين '
+        :'Tafseel | online shopping pltaform for multi-vendors of abayas, Hijab, dresses, jalabia, modest fashion and more.');
+        seo()->description(session('lang')=='ar'?
+        'متاجر أزياء توفر تصاميم فريدة لتشكيلة متنوعة من العبايات الخليجية وملابس المحجبات والبدلات العملية والجلابيات والفساتين.'
+        :
+        'Tafseel Fashion designers Provide unique designs of various collections of abayas, suits, jalabiyas, dresses, and modest clothing.'
+            );
+
+        seo()->addMany([
+            // main icon
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
+
+            Link::make()->rel('canonical')->href('https://tafseel.net/shops'),
+            Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
+            Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
+
+            OpenGraph::make()->property('title')->content(
+            session('lang')=='ar'?
+            'تفصيل | منصة تسوق اون لاين لعديد من محلات العبايات وملابس المحجبات والبدلات والجلابيات والفساتين '
+            :
+            'Tafseel | online shopping pltaform for multi-vendors of abayas, Hijab, dresses, jalabia, modest fashion and more.'
+            ),
+            OpenGraph::make()->property('site_name')->content('tafseel.net | تفصيل'),
+            OpenGraph::make()->property('description')->content(
+            session('lang')=='ar'?
+            'متاجر أزياء توفر تصاميم فريدة لتشكيلة متنوعة من العبايات الخليجية وملابس المحجبات والبدلات العملية والجلابيات والفساتين.'
+            :
+            'Tafseel Fashion designers Provide unique designs of various collections of abayas, suits, jalabiyas, dresses, and modest clothing.'
+        ),
+            OpenGraph::make()->property('url')->content('https://tafseel.net/shops'),
+            OpenGraph::make()->property('locale:locale')->content('en_us'),
+            OpenGraph::make()->property('locale:alternate')->content('ar_ar'),
+            OpenGraph::make()->property('type')->content('website')
+        ]);
         return view('style.cart')->with([
 
             'discount' => getNumbersModels()->get('discount'),

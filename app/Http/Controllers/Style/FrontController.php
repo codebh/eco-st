@@ -178,6 +178,9 @@ class FrontController extends Controller
         );
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
+
             Link::make()->rel('canonical')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
@@ -249,6 +252,10 @@ class FrontController extends Controller
             );
 
         seo()->addMany([
+            // main icon
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
+
             Link::make()->rel('canonical')->href('https://tafseel.net/shops'),
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
@@ -284,6 +291,7 @@ class FrontController extends Controller
     public function vendorsFind($slug)
     {
         // dd($slug);
+
         $store= Store::where('slug',$slug)->firstOrFail();
 
         seo()->title(session('lang')=='ar'?
@@ -292,6 +300,10 @@ class FrontController extends Controller
         seo()->description($store->bio);
 
         seo()->addMany([
+            // main logo
+            Link::make()->rel('icon')->href(imageDo($store->logo)),
+            Link::make()->rel('shortcut icon')->href(imageDo($store->logo)),
+
             Link::make()->rel('canonical')->href(''),
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
@@ -337,6 +349,9 @@ class FrontController extends Controller
 
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(imageDo($product->main_image)),
+            Link::make()->rel('shortcut icon')->href(imageDo($product->main_image)),
+
             Link::make()->rel('canonical')->href('https://tafseel.net/all-products/'.$product->title),
             Link::make()->rel('icon')->href(imageDo($product->main_image)),
             OpenGraph::make()->property('url')->content('https://tafseel.net/all-products/'.$product->title),
@@ -386,7 +401,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
-
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
                 'تفصيل | منصة تسوق اون لاين لتشكيلة متنوعة من العبايات وملابس المحجبات والبدلات والجلابيات والفساتين '
@@ -440,6 +456,9 @@ class FrontController extends Controller
         $item->des_en);
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
+
             Link::make()->rel('canonical')->href('https://tafseel.net/collection/'.$item->name_en),
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
@@ -513,6 +532,8 @@ class FrontController extends Controller
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('en')->href('https://tafseel.net'),
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
         ]);
        }elseif ($category->name_en == 'shailah') {
         seo()->title(session('lang')=='ar'?
@@ -870,7 +891,8 @@ class FrontController extends Controller
             Link::make()->rel('canonical')->href('https://tafseel.net/saleProducts'),
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
-
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
             session('lang')=='ar'?
             'تفصيل | تخفيضات ملابس اون لاين '
@@ -905,6 +927,8 @@ class FrontController extends Controller
             Link::make()->rel('canonical')->href('https://tafseel.net/newInProducts'),
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
 
             OpenGraph::make()->property('title')->content(
             session('lang')=='ar'?
@@ -942,7 +966,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
-
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
                 'تفصيل |  سياسة المشتري '
@@ -984,7 +1009,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
-
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
                 'تفصيل | سياسة البائع '
@@ -1026,6 +1052,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
 
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
@@ -1068,6 +1096,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
 
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
@@ -1110,6 +1140,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
 
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
@@ -1152,7 +1184,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
-
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
                 'تفصيل | اشترك معنا'
@@ -1194,6 +1227,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
 
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
@@ -1236,7 +1271,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
-
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
                 'تفصيل | الأسئلة الشائعة'

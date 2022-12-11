@@ -313,6 +313,7 @@ return[
     'shops_users'                       =>'الاعضاء والمحلات',
     'camp'                              =>'الحملات',
     'delivery'                          =>'التوصيل',
+    'coupons_count'                     =>' عدد اكواد الخصم',
 
 
 

@@ -11,6 +11,13 @@ use Illuminate\Support\Facades\Password;
 use Illuminate\Support\Str;
 use Illuminate\Validation\Rules;
 use Illuminate\Validation\ValidationException;
+use romanzipp\Seo\Facades\Seo;
+use romanzipp\Seo\Services\SeoService;
+use romanzipp\Seo\Structs\Title;
+use romanzipp\Seo\Structs\Meta\Description;
+use romanzipp\Seo\Structs\Link;
+use romanzipp\Seo\Structs\Meta\OpenGraph;
+
 
 trait ResetsPasswords
 {
@@ -26,6 +33,44 @@ trait ResetsPasswords
      */
     public function showResetForm(Request $request)
     {
+        seo()->title(session('lang')=='ar'?
+        'تفصيل | منصة تسوق اون لاين لتشكيلة متنوعة من العبايات وملابس المحجبات والبدلات والجلابيات والفساتين '
+        :
+        'Tafseel | online shopping platform for abayas, Hijab, dresses, jalabiya, modest fashion and more.'
+        );
+        seo()->description(session('lang')=='ar'?
+        ' تفصيل | موقع للأزياء المحلية يوفر متجر إلكتروني لمصمم الأزياء لعرض القطع و إدارة الطلبات، و ويقدم تجربة تسوق أونلاين لتشكيلة متنوعة من الأزياء الفريدة من الملابس والعبايات والفساتين والبدلات العملية والجلابيات وملابس المحجبات المحتشمة وبدلات السفر .'
+        :
+        'Tafseel | online shopping platform for local fashion designers to manage sales and orders. providing unique designs of varius collections of abayas, suits, jalabiyas, dresses, and modest clothing.'
+        );
+
+        seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
+
+            Link::make()->rel('canonical')->href('https://tafseel.net'),
+            Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
+            Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
+
+            OpenGraph::make()->property('title')->content(
+            session('lang')=='ar'?
+            'تفصيل | منصة تسوق اون لاين لتشكيلة متنوعة من العبايات وملابس المحجبات والبدلات والجلابيات والفساتين '
+            :
+            'Tafseel | online shopping platform for abayas, Hijab, dresses, jalabiya, modest fashion and more.'
+            ),
+            OpenGraph::make()->property('site_name')->content('tafseel.net | تفصيل'),
+            OpenGraph::make()->property('description')->content(
+            session('lang')=='ar'?
+            ' تفصيل | موقع للأزياء المحلية يوفر متجر إلكتروني لمصمم الأزياء لعرض القطع و إدارة الطلبات، و ويقدم تجربة تسوق أونلاين لتشكيلة متنوعة من الأزياء الفريدة من الملابس والعبايات والفساتين والبدلات العملية والجلابيات وملابس المحجبات المحتشمة وبدلات السفر .'
+            :
+            'Tafseel | online shopping platform for local fashion designers to manage sales and orders. providing unique designs of varius collections of abayas, suits, jalabiyas, dresses, and modest clothing.'
+
+        ),
+            OpenGraph::make()->property('url')->content('https://tafseel.net'),
+            OpenGraph::make()->property('locale:locale')->content('en_us'),
+            OpenGraph::make()->property('locale:alternate')->content('ar_ar'),
+            OpenGraph::make()->property('type')->content('website')
+        ]);
         $token = $request->route()->parameter('token');
 
         return view('auth.passwords.reset')->with(

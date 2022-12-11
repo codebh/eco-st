@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::group(['prefix' => 'admin', 'namespace' => 'App\Http\Controllers\Admin'], function () {
 
+
     Config::set('auth.defines', 'admin');
 
     Route::get('login', 'AdminAuthController@login');
@@ -228,6 +229,10 @@ $tafseel_fees =$all_orders * 0.10;
 
         //coupons Controller
         Route::resource('coupons', 'CouponController');
+        // Route::get('/password-store', 'StoresController@update_password')->name('update_password_store');
+
+        Route::get('/coupons-multi','CouponController@multi');
+        Route::post('/coupons-multi','CouponController@multiCoupons')->name('multiCoupon');
         //ColorsController
         Route::resource('colors', 'ColorController');
         Route::delete('colors/destroy/all', 'ColorController@multi_delete');
