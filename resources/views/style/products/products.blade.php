@@ -35,14 +35,14 @@
     <section class="section-b-space ratio_asos">
         <div class="collection-wrapper">
             <div class="container">
-                <form action="{{route('search')}}" method="post">
-                    {{csrf_field()}}
+                {{-- <form action="{{route('search')}}" method="post"> --}}
+                    {{-- {{csrf_field()}} --}}
                     <div class="row">
                         @livewire('style.side-all-product')
                         @livewire('style.all-product')
 
                     </div>
-                </form>
+                {{-- </form> --}}
             </div>
         </div>
     </section>

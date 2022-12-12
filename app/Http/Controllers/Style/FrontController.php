@@ -511,6 +511,8 @@ class FrontController extends Controller
     );
 
         seo()->addMany([
+            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
+            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
             OpenGraph::make()->property('title')->content(
                 session('lang')=='ar'?
                 'تفصيل | عبايات اون لاين'
@@ -532,8 +534,7 @@ class FrontController extends Controller
             Link::make()->rel('alternate')->hreflang('x-default')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('ar')->href('https://tafseel.net'),
             Link::make()->rel('alternate')->hreflang('en')->href('https://tafseel.net'),
-            Link::make()->rel('icon')->href(asset('img/s_logo.png')),
-            Link::make()->rel('shortcut icon')->href(asset('img/s_logo.png')),
+
         ]);
        }elseif ($category->name_en == 'shailah') {
         seo()->title(session('lang')=='ar'?
