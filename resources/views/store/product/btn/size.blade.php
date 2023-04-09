@@ -11,8 +11,8 @@
 
 
 @endpush
-
-<!-- Trigger the modal with a button -->
+@if ($category_id == 1)
+    <!-- Trigger the modal with a button -->
 <button type="button" class="btn btn-warning " data-toggle="modal" data-target="#del_admin{{$id}}"><i class="fas fa-ruler"></i></button>
 
 <!-- Modal -->
@@ -108,4 +108,6 @@
 
     </div>
 </div>
+@endif
+
 
