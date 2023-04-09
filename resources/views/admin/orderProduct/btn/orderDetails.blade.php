@@ -1,0 +1,1 @@
+<a href="{{aurl('orderProduct/'.$id)}}" class="btn btn-secondary"><li class="fa fa-info"></li></a>

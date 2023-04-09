@@ -1,0 +1,10 @@
+[2022-12-08 20:12:58] production.ERROR: There are no commands defined in the "amke" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"amke\" namespace. at /home/faisal/sites/eco-st/vendor/symfony/console/Application.php:648)
+[stacktrace]
+#0 /home/faisal/sites/eco-st/vendor/symfony/console/Application.php(699): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /home/faisal/sites/eco-st/vendor/symfony/console/Application.php(259): Symfony\\Component\\Console\\Application->find()
+#2 /home/faisal/sites/eco-st/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun()
+#3 /home/faisal/sites/eco-st/vendor/laravel/framework/src/Illuminate/Console/Application.php(94): Symfony\\Component\\Console\\Application->run()
+#4 /home/faisal/sites/eco-st/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(129): Illuminate\\Console\\Application->run()
+#5 /home/faisal/sites/eco-st/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
