@@ -142,6 +142,8 @@
                         <h4>{{trans('shop.product_content')}}</h4>
                         <p>{!! $product->content !!}</p>
                         <hr>
+                @if ($product->category_id == 1)
+
 
 
                         <h4>{{trans('shop.req_mag')}}</h4>
@@ -168,7 +170,7 @@
 
                             @endif
                         @empty
-                        <p>this products not have size</p>
+                        <p>this products not have size of Abaya</p>
 
                         @endforelse
                         <form action="{{ route('product.abayaSize', ['id'=>$product->id]) }}" method="POST">
@@ -192,6 +194,7 @@
                                                 </div>
                         </form>
                         <hr>
+                        @endif
 
                         <h4>{{trans('user.tags')}}</h4>
 

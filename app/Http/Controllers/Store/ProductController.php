@@ -425,6 +425,25 @@ class ProductController extends Controller
         return redirect()->back();
 
     }
+
+
+
+    public function getAbayaSizePage($title){
+
+        $shop = shop()->user()->id;
+        $product_id = Product::where('title', $title)->firstOrFail();
+
+         $sizes= SizeAbaya::where('product_id',$product_id->id)->get();
+        //  dd($tags);
+
+        if ($product = Product::where('title', $title)->where('store_id', $shop)->firstOrFail()) {
+            return view('store.product.sizeAbaya')->with([
+                'product'=>$product,
+                'sizes'=>$sizes
+            ]);
+        }
+    }
+
     public function abayaSize(Request $request, $id){
 
         // dd($request->all());
@@ -479,6 +498,62 @@ class ProductController extends Controller
 
         session()->flash('success_message', trans('shop.uploaded_successfully'));
         return redirect()->back();
+
+    }
+    public function abayaSizeTable(Request $request, $id){
+
+        // dd($request->all());
+
+        // $tags_old =TagData::where('product_id',$id)->firstOrFail();
+        if (request()->has('my_name')) {
+            SizeAbaya::where('product_id', $id)->delete();
+            foreach (request('my_name') as $key) {
+                if($key== 'a_size1'){
+                    SizeAbaya::create([
+                        'product_id' => $id,
+                        'img_abaya' => 'img/size/abaya-1.png',
+                        'size_abaya' => $key,
+                    ]);
+                }
+                elseif($key== 'a_size2'){
+                    SizeAbaya::create([
+                        'product_id' => $id,
+                        'img_abaya' => 'img/size/abaya-2.png',
+                        'size_abaya' => $key,
+                    ]);
+                }
+                elseif($key== 'a_size3'){
+                     SizeAbaya::create([
+                    'product_id' => $id,
+                    'img_abaya' => 'img/size/abaya-3.png',
+                    'size_abaya' => $key,
+                ]);}
+                elseif($key== 'a_size4'){
+                    SizeAbaya::create([
+                    'product_id' => $id,
+                    'img_abaya' => 'img/size/abaya-4.png',
+                    'size_abaya' => $key,
+                ]);}
+                elseif($key== 'a_size5'){
+                     SizeAbaya::create([
+                    'product_id' => $id,
+                    'img_abaya' => 'img/size/abaya-5.png',
+                    'size_abaya' => $key,
+                ]);}
+                elseif($key== 'a_size6'){
+                    SizeAbaya::create([
+                    'product_id' => $id,
+                    'img_abaya' => 'img/size/abaya-6.png',
+                    'size_abaya' => $key,
+                ]);}
+
+            }
+
+
+        }
+
+        session()->flash('success_message', trans('shop.uploaded_successfully'));
+        return redirect(surl('showShop'));
 
     }
 

@@ -38,7 +38,9 @@ Route::group(['prefix' => 'store','namespace' =>'App\Http\Controllers\Store'], f
         Route::put('showShop/colorsShela/{id}','ProductController@updateColorA');
         Route::get('showShop/single/{id}', 'ProductController@singleDelete')->name('delete.image');
         Route::post('showShop/tag/{id}', 'ProductController@tags')->name('product.view.tags');
+        Route::get('showShop/abayaSize/{id}', 'ProductController@getAbayaSizePage')->name('product.abayaSize.get');
         Route::post('showShop/abayaSize/{id}', 'ProductController@abayaSize')->name('product.abayaSize');
+        Route::post('showShop/abayaSizeT/{id}', 'ProductController@abayaSizeTable')->name('product.abayaSize.Table');
 
         Route::get('pending_product',[\App\Http\Controllers\Store\PendingProductController::class ,'index'])->name('product.pending');
 
