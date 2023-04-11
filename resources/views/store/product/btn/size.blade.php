@@ -37,7 +37,7 @@
 
 
 @empty
-<p>this products not have size</p>
+
 
 @endforelse
 

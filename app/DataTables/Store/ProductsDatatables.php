@@ -124,16 +124,6 @@ class ProductsDatatables extends DataTable
                 'orderable'  => false,
                 'searchable' => false,
             ],
-            [
-
-                'name'       => 'size',
-                'data'       => 'size',
-                'title'      => trans('shop.req_mag'),
-                'exportable' => false,
-                'printable'  => false,
-                'orderable'  => false,
-                'searchable' => false,
-            ],
 
 
             [
@@ -150,6 +140,17 @@ class ProductsDatatables extends DataTable
                 'title'      => trans('shop.image'),
 
             ],
+            [
+
+                'name'       => 'size',
+                'data'       => 'size',
+                'title'      => trans('shop.req_mag'),
+                'exportable' => false,
+                'printable'  => false,
+                'orderable'  => false,
+                'searchable' => false,
+            ],
+
 
 
             [
