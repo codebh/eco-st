@@ -120,29 +120,29 @@ class PlaceOrder extends Component
             // $this->cost = Cart::instance('cart')->content()->count()* 3.5;
             if($this->delivery_id == 1){
                 $cart_id = ModelsCart::where('user_id',auth()->user()->id)->first();
-                $this->cost = CartItem::where('cart_id',$cart_id->id)->count()* Setting()->delivery_outside;
-                // switch(CartItem::where('cart_id',$cart_id->id)->count()){
-                //     case(1):
-                //         $this->cost = 3.5;
-                //         break;
-                //     case(2):
-                //         $this->cost = 4.5;
-                //         break;
-                //     case(3):
-                //         $this->cost = 5.5;
-                //         break;
-                //     case(4):
-                //         $this->cost = 6.5;
-                //         break;
-                //     case(5):
-                //         $this->cost = 8;
-                //         break;
-                //     case(6):
-                //             $this->cost = 8;
-                //             break;
-                //     default:
-                //         $this->cost = 3.5;
-                // }
+                // $this->cost = CartItem::where('cart_id',$cart_id->id)->count()* Setting()->delivery_outside;
+                switch(CartItem::where('cart_id',$cart_id->id)->count()){
+                    case(1):
+                        $this->cost = Setting()->delivery_outside;
+                        break;
+                    case(2):
+                        $this->cost = 6.5;
+                        break;
+                    case(3):
+                        $this->cost = 7.5;
+                        break;
+                    case(4):
+                        $this->cost = 9;
+                        break;
+                    case(5):
+                        $this->cost = 11;
+                        break;
+                    case(6):
+                            $this->cost = 12.5;
+                            break;
+                    default:
+                        $this->cost = 4.5;
+                }
 
 
 
